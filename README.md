@@ -1,4 +1,4 @@
-# Machine-Learning-with-Python-IBM-
+# IBM AI Engineering Professional Certificate
 The repository is the result from the course <a href="https://www.coursera.org/learn/machine-learning-with-python"> Machine Learning with Python from Coursera offered by IBM. </a>
 <h5>The rapid pace of innovation in Artificial Intelligence (AI) is creating enormous opportunity for transforming entire industries and our very existence. After competing this comprehensive 6 course Professional Certificate, you will get a practical understanding of Machine Learning and Deep Learning.
 
