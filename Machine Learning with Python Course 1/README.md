@@ -13,8 +13,8 @@ Syllabus - What you will learn from this course
  
   3. <a href="https://github.com/mostafanabiehMourad/IBM-AI-Engineering-Professional-Certificate/blob/master/Machine%20Learning%20with%20Python%20Course%201/Introduction%20to%20Machine%20Learning/3-Supervised%20vs%20Unsupervised.md"> Supervised vs Unsupervised </a>
 
-
-### WEEK 2 -- Regression
+ 
+### <a href="https://github.com/mostafanabiehMourad/IBM-AI-Engineering-Professional-Certificate/tree/master/Machine%20Learning%20with%20Python%20Course%201/Regression"> WEEK 2 -- Regression </a>
 
 ### WEEK 3 -- Classification
 
