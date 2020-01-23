@@ -11,8 +11,7 @@ Syllabus - What you will learn from this course
   1.  <a href="https://github.com/mostafanabiehMourad/IBM-AI-Engineering-Professional-Certificate/blob/master/Machine%20Learning%20with%20Python%20Course%201/Introduction%20to%20Machine%20Learning/1-Introduction%20to%20Machine%20Learning.md">What is Machine Leaning?  </a>
   2. <a href="https://github.com/mostafanabiehMourad/IBM-AI-Engineering-Professional-Certificate/blob/master/Machine%20Learning%20with%20Python%20Course%201/Introduction%20to%20Machine%20Learning/2-Python%20for%20Machine%20Learning.md"> Python for Machine Learning </a>
  
-  3. Supervised vs Unsupervised
-
+  3. <a href="https://github.com/mostafanabiehMourad/IBM-AI-Engineering-Professional-Certificate/blob/master/Machine%20Learning%20with%20Python%20Course%201/Introduction%20to%20Machine%20Learning/3-Supervised%20vs%20Unsupervised.md"> Supervised vs Unsupervised </a>
 
 
 ### WEEK 2 -- Regression
