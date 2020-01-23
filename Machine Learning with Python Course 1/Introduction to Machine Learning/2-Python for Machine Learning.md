@@ -19,8 +19,8 @@ is a good asset for data scientists who want to work with real-world problems.
 ![2020-01-23_040241](https://user-images.githubusercontent.com/46414243/72950953-7b85a900-3d95-11ea-9733-ca349499c56c.png)
 
 Most of the tasks that need to be done in a machine learning pipeline are implemented already in **Scikit** Learn including :
-1. pre-processing of data, feature selection, 
-2. feature extraction, train test splitting, 
+1. pre-processing of data, feature selection,feature extraction,
+2. train test splitting, 
 3. defining the algorithms, 
 4. fitting models, 
 5. tuning parameters, 
