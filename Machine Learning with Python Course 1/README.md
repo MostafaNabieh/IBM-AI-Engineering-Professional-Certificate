@@ -9,7 +9,8 @@ Second, you will get a general overview of Machine Learning topics such as super
 Syllabus - What you will learn from this course
 ### <a href="https://github.com/mostafanabiehMourad/IBM-AI-Engineering-Professional-Certificate/tree/master/Machine%20Learning%20with%20Python%20Course%201/Introduction%20to%20Machine%20Learning"> Week 1 -- Introduction to Machine Learning  </a>
   1.  <a href="https://github.com/mostafanabiehMourad/IBM-AI-Engineering-Professional-Certificate/blob/master/Machine%20Learning%20with%20Python%20Course%201/Introduction%20to%20Machine%20Learning/1-Introduction%20to%20Machine%20Learning.md">What is Machine Leaning?  </a>
-  2. Python for Machine Learning
+  2. <a href="https://github.com/mostafanabiehMourad/IBM-AI-Engineering-Professional-Certificate/blob/master/Machine%20Learning%20with%20Python%20Course%201/Introduction%20to%20Machine%20Learning/2-Python%20for%20Machine%20Learning.md"> Python for Machine Learning </a>
+ 
   3. Supervised vs Unsupervised
 
 
