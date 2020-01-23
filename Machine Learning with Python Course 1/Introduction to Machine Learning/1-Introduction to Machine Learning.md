@@ -1,9 +1,4 @@
-# Week 1
-
-In this week, you will learn about applications of Machine Learning in different fields such as health care, banking, telecommunication, and so on. You’ll get a general overview of Machine Learning topics such as supervised vs unsupervised learning, and the usage of each algorithm. Also, you understand the advantage of using Python libraries for implementing Machine Learning models.
-
-
-## Introduction to Machine Learning
+# Introduction to Machine Learning
 ### Is this a Benign or Malignant cell?
 This is a human cell sample extracted from a patient, and this cell has characteristics. For example, its clump thickness is 6, its uniformity of cell size is 1, its marginal adhesion is 1, and so on.
 
