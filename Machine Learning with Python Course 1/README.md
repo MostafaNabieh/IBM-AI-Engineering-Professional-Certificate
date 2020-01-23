@@ -15,6 +15,12 @@ Syllabus - What you will learn from this course
 
  
 ### <a href="https://github.com/mostafanabiehMourad/IBM-AI-Engineering-Professional-Certificate/tree/master/Machine%20Learning%20with%20Python%20Course%201/Regression"> Week 2 -- Regression </a>
+  1. Introduction to Regression
+  2. Simple Linear Regression
+  3. Model Evaluation in Regression Models
+  4. Evaluation Metrics in Regression Models
+  5. Multiple Linear Regression
+  6. Non-Linear Regression
 
 ### WEEK 3 -- Classification
 
