@@ -15,12 +15,12 @@ Syllabus - What you will learn from this course
 
  
 ### <a href="https://github.com/mostafanabiehMourad/IBM-AI-Engineering-Professional-Certificate/tree/master/Machine%20Learning%20with%20Python%20Course%201/Regression"> Week 2 -- Regression </a>
-  1.<a href="https://github.com/mostafanabiehMourad/IBM-AI-Engineering-Professional-Certificate/blob/master/Machine%20Learning%20with%20Python%20Course%201/Regression/1-Introduction%20to%20Regression.md"> Introduction to Regression </a>
-  2.<a href="https://github.com/mostafanabiehMourad/IBM-AI-Engineering-Professional-Certificate/blob/master/Machine%20Learning%20with%20Python%20Course%201/Regression/2-Simple%20Linear%20Regression.md"> Simple Linear Regression </a>
-  3.<a href="https://github.com/mostafanabiehMourad/IBM-AI-Engineering-Professional-Certificate/blob/master/Machine%20Learning%20with%20Python%20Course%201/Regression/3-Model%20Evaluation%20in%20Regression%20Models.md"> Model Evaluation in Regression Models </a>
-  4.<a href="https://github.com/mostafanabiehMourad/IBM-AI-Engineering-Professional-Certificate/blob/master/Machine%20Learning%20with%20Python%20Course%201/Regression/4-Evaluation%20Metrics%20in%20Regression%20Models.md"> Evaluation Metrics in Regression Models </a>
-  5.<a href="https://github.com/mostafanabiehMourad/IBM-AI-Engineering-Professional-Certificate/blob/master/Machine%20Learning%20with%20Python%20Course%201/Regression/5-Multiple%20Linear%20Regression.md"> Multiple Linear Regression </a>
-  6.<a href="https://github.com/mostafanabiehMourad/IBM-AI-Engineering-Professional-Certificate/blob/master/Machine%20Learning%20with%20Python%20Course%201/Regression/6-Non-Linear%20Regression.md">Non-Linear Regression </a>
+  1. <a href="https://github.com/mostafanabiehMourad/IBM-AI-Engineering-Professional-Certificate/blob/master/Machine%20Learning%20with%20Python%20Course%201/Regression/1-Introduction%20to%20Regression.md"> Introduction to Regression </a>
+  2. <a href="https://github.com/mostafanabiehMourad/IBM-AI-Engineering-Professional-Certificate/blob/master/Machine%20Learning%20with%20Python%20Course%201/Regression/2-Simple%20Linear%20Regression.md"> Simple Linear Regression </a>
+  3. <a href="https://github.com/mostafanabiehMourad/IBM-AI-Engineering-Professional-Certificate/blob/master/Machine%20Learning%20with%20Python%20Course%201/Regression/3-Model%20Evaluation%20in%20Regression%20Models.md"> Model Evaluation in Regression Models </a>
+  4. <a href="https://github.com/mostafanabiehMourad/IBM-AI-Engineering-Professional-Certificate/blob/master/Machine%20Learning%20with%20Python%20Course%201/Regression/4-Evaluation%20Metrics%20in%20Regression%20Models.md"> Evaluation Metrics in Regression Models </a>
+  5. <a href="https://github.com/mostafanabiehMourad/IBM-AI-Engineering-Professional-Certificate/blob/master/Machine%20Learning%20with%20Python%20Course%201/Regression/5-Multiple%20Linear%20Regression.md"> Multiple Linear Regression </a>
+  6. <a href="https://github.com/mostafanabiehMourad/IBM-AI-Engineering-Professional-Certificate/blob/master/Machine%20Learning%20with%20Python%20Course%201/Regression/6-Non-Linear%20Regression.md">Non-Linear Regression </a>
 
 ### WEEK 3 -- Classification
 
