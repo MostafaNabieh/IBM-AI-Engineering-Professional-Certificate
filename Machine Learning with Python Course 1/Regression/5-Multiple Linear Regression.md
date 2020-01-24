@@ -101,6 +101,8 @@ If we map it to our data set, we can rewrite the linear model as CO_2 emissions 
 
 ### Q&A - on multiplue linear regression
 
+![2020-01-24_225112](https://user-images.githubusercontent.com/46414243/73103150-126c7580-3efc-11ea-80ab-6136ae86517c.png)
+
 Now, let me address some concerns that you might already be having regarding multiple linear regression. 
 
 As you saw, you can use multiple independent variables to predict a target value in multiple linear regression. It sometimes results in a better model compared to using a simple linear regression which uses only one independent variable to predict the dependent variable. 
