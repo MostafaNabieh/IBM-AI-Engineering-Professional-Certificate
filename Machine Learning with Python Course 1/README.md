@@ -22,7 +22,16 @@ Syllabus - What you will learn from this course
   5. <a href="https://github.com/mostafanabiehMourad/IBM-AI-Engineering-Professional-Certificate/blob/master/Machine%20Learning%20with%20Python%20Course%201/Regression/5-Multiple%20Linear%20Regression.md"> Multiple Linear Regression </a>
   6. <a href="https://github.com/mostafanabiehMourad/IBM-AI-Engineering-Professional-Certificate/blob/master/Machine%20Learning%20with%20Python%20Course%201/Regression/6-Non-Linear%20Regression.md">Non-Linear Regression </a>
 
-### WEEK 3 -- Classification
+### <a href="https://github.com/mostafanabiehMourad/IBM-AI-Engineering-Professional-Certificate/tree/master/Machine%20Learning%20with%20Python%20Course%201/Classification">Week 3 --Classification</a>
+  1. Introduction to Classification
+  2. K-Nearest Neighbours
+  3. Evaluation Metrics in Classification
+  4. Introduction to Decision Trees
+  5. Building Decision Trees
+  6. Intro to Logistic Regression
+  7. Logistic regression vs Linear regression
+  8. Logistic Regression Training
+  9. Support Vector Machine
 
 ### WEEK 4 -- Clustering
 
