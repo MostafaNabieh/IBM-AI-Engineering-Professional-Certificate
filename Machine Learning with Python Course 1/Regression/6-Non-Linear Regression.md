@@ -60,5 +60,12 @@ That is, in non-linear regression, a model is non-linear by parameters. In contr
 **First, how can I know if a problem is linear or non-linear in an easy way? 
 To answer this question, we have to do two things. The first is to visually figure out if the relation is linear or non-linear.**
 
-It's best to plot bivariate plots of output variables with each input variable.
+It's best to plot bivariate plots of output variables with each input variable. 
+
+Also, **you can calculate the correlation coefficient between independent and dependent variables, and if, for all variables, it is 0.7 or higher,** there is a linear tendency and thus, it's not appropriate to fit a non-linear regression. 
+
+**The second thing** we have to do is to use non-linear regression instead of linear regression when we cannot accurately model the relationship with linear parameters.
+
+**The second important question** is, how should I model my data if it displays non-linear on a scatter plot? Well, to address this, you have to use either a polynomial regression, use a non-linear regression model, or transform your data.
+
 
