@@ -1,4 +1,3 @@
-<a href="https://www.bigdatauniversity.com"><img src="https://ibm.box.com/shared/static/cw2c7r3o20w9zn8gkecaeyjhgw3xdgbj.png" width="400" align="center"></a>
 
 <h1><center>Simple Linear Regression</center></h1>
 
@@ -458,7 +457,7 @@ plt.show()
 ```
 
 
-![png](output_15_0.png)
+![output_15_0](https://user-images.githubusercontent.com/46414243/73119361-66fa0a00-3f69-11ea-9978-71667aec95ba.png)
 
 
 Now, lets plot each of these features vs the Emission, to see how linear is their relation:
@@ -472,7 +471,7 @@ plt.show()
 ```
 
 
-![png](output_17_0.png)
+![output_17_0](https://user-images.githubusercontent.com/46414243/73119365-737e6280-3f69-11ea-9c77-699564b30eda.png)
 
 
 
@@ -484,7 +483,7 @@ plt.show()
 ```
 
 
-![png](output_18_0.png)
+![output_18_0](https://user-images.githubusercontent.com/46414243/73119368-7d07ca80-3f69-11ea-9577-6de946264dbf.png)
 
 
 ## Practice
@@ -500,8 +499,7 @@ plt.show()
 ```
 
 
-![png](output_20_0.png)
-
+![output_20_0](https://user-images.githubusercontent.com/46414243/73119375-898c2300-3f69-11ea-9819-bd7158afb792.png)
 
 Double-click __here__ for the solution.
 
@@ -543,7 +541,7 @@ plt.show()
 ```
 
 
-![png](output_26_0.png)
+![output_26_0](https://user-images.githubusercontent.com/46414243/73119376-898c2300-3f69-11ea-9bda-fb4489f4e82a.png)
 
 
 #### Modeling
@@ -590,7 +588,7 @@ plt.ylabel("Emission")
 
 
 
-![png](output_32_1.png)
+![output_32_1](https://user-images.githubusercontent.com/46414243/73119374-898c2300-3f69-11ea-81a4-634003a7fb5a.png)
 
 
 #### Evaluation
